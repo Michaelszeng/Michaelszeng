@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a winch for drone deliveries](https://www.zingdrones.com/)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **React + Postgres**
 
 - 💬 Ask me about **Controls**
 
