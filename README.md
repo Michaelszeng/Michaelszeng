@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Zeng</h1>
-<h3 align="center">A passionate computer scientists looking to innovate in autonomous robots, machine-learning, and anything the world has never seen before!</h3>
+<h3 align="center">A passionate computer scientist and engineer looking to innovate in autonomous robots, machine-learning, and anything the world has never seen before!</h3>
 <img align="right" alt="robot!!!" width="400" src="robotgif.gif">
 
 - 🔭 I’m currently working on [a winch for drone deliveries](https://www.zingdrones.com/)
